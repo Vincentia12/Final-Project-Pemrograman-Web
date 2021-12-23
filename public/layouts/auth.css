@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#EA5C54 ), color-stop(100%,#bb6dec));
+  background: -webkit-linear-gradient(-45deg,  #EA5C54  0%,#bb6dec 150%);
+}
+
+
+body {
+    align-items: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #fcf6bd;
+  }
